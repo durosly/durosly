@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @durosly
-- 👀 I’m interested in becoming a fullstack javascript developer
-- 🌱 I’m currently learning nodeJS and ExpressJS
-- 💞️ I’m looking to collaborate on node projects
+- 👀 I’m now a fullstack javascript developer skilled in nodeJS/express
+- 🌱 I’m currently learning blockchain development with solidity
+- 💞️ I’m looking to work remotely
+- 🚀 My skillset includes HTML, CSS, JavaScript, PHP, Laravel, ReactJS, NextJs, NodeJS/expressJS, SASS, Tailwindcss, Bootstrap, ReactStrap, MySQL, MongoDB, etc...
 - 📫 How to reach me duro.slyvester@gmail.com
 
 <!---
