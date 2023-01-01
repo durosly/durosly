@@ -6,16 +6,20 @@ Web developer and Tutor
 
 I have been a web developer for more than 4 years now but have always had an eye for teaching. I pride myself with everything JavaScript but proficient in a few stack which includes React, Nodejs, NextJS, etc.
 
-*   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [durosly.com](http://durosly.com)
-*   ✉️  You can contact me at [hello@durosly.com](mailto:hello@durosly.com)
-*   🚀  I'm currently working on [budget.app](http://durosly-budget.netlify.app)
-*   🧠  I'm learning three.js
-*   🤝  I'm open to collaborating on any web development and web3 projects
-*   ⚡  I am a chess player and content creator<a href="https://www.github.com/durosly" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/durosly?logo=github&style=for-the-badge&color=ef4444&labelColor=581c87" /></a><a href="https://www.twitter.com/durosly_" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/durosly_?logo=twitter&style=for-the-badge&color=ef4444&labelColor=581c87"
-                /></a>### Skills 
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [durosly.com](http://durosly.com)
+* ✉️  You can contact me at [hello@durosly.com](mailto:hello@durosly.com)
+* 🚀  I'm currently working on [budget.app](http://durosly-budget.netlify.app)
+* 🧠  I'm learning three.js
+* 🤝  I'm open to collaborating on any web development and web3 projects
+* ⚡  I am a chess player and content creator
+
+<a href="https://www.github.com/durosly" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/durosly?logo=github&style=for-the-badge&color=ef4444&labelColor=581c87" /></a><a href="https://www.twitter.com/durosly_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/durosly_?logo=twitter&style=for-the-badge&color=ef4444&labelColor=581c87"
+/></a>
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -37,29 +41,23 @@ I have been a web developer for more than 4 years now but have always had an eye
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://discord.com/users/durosly | Eddiehub#4784" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://durosly.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/durosly_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/UCLbttMo9WCFDNh1FMm_LNdQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/durosly"><img src="https://github-readme-stats.vercel.app/api?username=durosly&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&show_icons=true" alt="durosly's GitHub stats" /></a><a
-                      href="http://www.github.com/durosly"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=durosly&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/durosly"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=durosly&bg_color=581c87&color=ffffff&line=ef4444&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/durosly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durosly&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/durosly"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/durosly | Eddiehub#4784" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://durosly.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@durosly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/durosly_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCLbttMo9WCFDNh1FMm_LNdQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/durosly"><img src="https://github-readme-stats.vercel.app/api?username=durosly&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&show_icons=true" alt="durosly's GitHub stats" /></a>
+
+<a href="http://www.github.com/durosly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=durosly&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/durosly"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=durosly&bg_color=581c87&color=ffffff&line=ef4444&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/durosly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durosly&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/durosly"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
