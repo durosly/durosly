@@ -9,7 +9,7 @@ I have been a web developer for more than 4 years now but have always had an eye
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [durosly.com](http://durosly.com)
 * ✉️  You can contact me at [hello@durosly.com](mailto:hello@durosly.com)
-* 🚀  I'm currently working on [budget.app](http://durosly-budget.netlify.app)
+* 🚀  I'm currently working on [fullstack-todolist.com](https://fullstack-todolist.vercel.app)
 * 🧠  I'm learning three.js
 * 🤝  I'm open to collaborating on any web development and web3 projects
 * ⚡  I am a chess player and content creator
