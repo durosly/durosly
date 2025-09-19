@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Tutor
 -----------------------
 
-I have been a web developer for more than 4 years now but have always had an eye for teaching. I pride myself with everything JavaScript but proficient in a few stack which includes React, Nodejs, NextJS, etc.
+I have been a web developer for more almost a decade now but have always had an eye for teaching. I pride myself with everything JavaScript but proficient in a few stack which includes React, Nodejs, NextJS, etc.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [durosly.com](http://durosly.com)
-* ✉️  You can contact me at [hello@durosly.com](mailto:hello@durosly.com)
-* 🚀  I'm currently working on [fullstack-todolist.com](https://fullstack-todolist.vercel.app)
+* 🖥️  See my portfolio at [durosly.netlify.app/](https://durosly.netlify.app/)
+* ✉️  You can contact me at [duro.slyvester@gmail.com](mailto:duro.slyvester@gmail.com)
+* 🚀  I'm currently working on [chopwellng.com](https://chopwellng.com/))
 * 🧠  I'm learning three.js
 * 🤝  I'm open to collaborating on any web development and web3 projects
 * ⚡  I am a chess player and content creator
